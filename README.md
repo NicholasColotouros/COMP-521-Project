@@ -1,4 +1,4 @@
-# COMP-521-Project
+# Heatmap AI
 
 A research project for COMP 521 (Modern Computer Games) that explores the various aspects of terrain analysis, artificial intelligence and influence maps in the context of a simplified RTS game (imagine StarCraft if each player was only given a handful of marines).
 
